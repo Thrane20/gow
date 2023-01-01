@@ -1,0 +1,33 @@
+services:
+  # ####################
+  # An example of running an unprivileged X11 app in this environment. It's
+  # also an example of running a 3rd-party container that wasn't necessarily
+  # designed with GoW in mind.
+  winerunner:
+    depends_on:
+      - sunshine
+    image: ghcr.io/games-on-whales/winerunner:latest
+    build:
+      context: ./images/winerunner
+      args:
+        BASE_IMAGE: ${BUILD_BASE_IMAGE}
+        BASE_APP_IMAGE: ${BUILD_BASE_APP_IMAGE}
+    privileged: true
+    network_mode: ${UDEVD_NETWORK}
+    volumes:
+      - ${XORG_SOCKET}:/tmp/.X11-unix
+      # Pulse socket, audio
+      - ${PULSE_SOCKET_HOST}:${PULSE_SOCKET_GUEST}
+      # WINEPREFIX location
+      - winerunner:/home/retro/.wine/
+
+    env_file:
+      - config/common.env
+      - config/xorg.env
+
+    environment:
+      LOG_LEVEL: info
+
+volumes:
+  winerunner:
+    name: ${WINE_IMAGE_VOLUME}
