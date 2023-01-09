@@ -1,0 +1,1057 @@
+{
+    "products": [
+        {
+            "customAttributes": [],
+            "developer": "Slitherine Ltd.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-2.gog-statics.com\/f5f5d6b3ce4d472b62f031d456eec5998d4d474ff93f376bb18e2ccb3139d2f2",
+                "\/\/images-2.gog-statics.com\/698bce12e6e8e352911f5af1ae0fcfc40c3927dcef4fa0511fb0c9b45ecb29a5",
+                "\/\/images-2.gog-statics.com\/14cef90100fb108f9f728ba6166161bcd6d4b09f77412a800d6c922a054f5898",
+                "\/\/images-1.gog-statics.com\/89595c9f7a24269b7314bd81b226b0a3cbcb7f4bceb138acfe094ce17ff1fc53",
+                "\/\/images-2.gog-statics.com\/e0e6d052731160047bcee71af867e00fb8361e7bc3b912d76a929b1f27426b85",
+                "\/\/images-4.gog-statics.com\/f8570e29c74baa847f98f1af441d6b547fac5eb9e5b45b9fbe85bb463c02286a"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1308517200,
+            "isTBA": false,
+            "price": {
+                "amount": "13.69",
+                "baseAmount": "56.95",
+                "finalAmount": "13.69",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "43.26",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1215191504,
+            "releaseDate": 1308517200,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2020-05-07 15:55:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1588856100,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: Wacht am Rhein",
+            "image": "\/\/images-3.gog-statics.com\/70ef91a6dfe1abd5b35ca1561e245e1d3ff32cb47ab6cf338126b671e3928ee0",
+            "url": "\/en\/game\/close_combat_wacht_am_rhein",
+            "supportUrl": "\/support\/close_combat_wacht_am_rhein",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 34,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_wacht_am_rhein",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Slitherine Ltd.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-4.gog-statics.com\/bd03eb31758ef526dcd2b3c4829dc92583b794a35b4c69c1b065d72dfd1f16d2",
+                "\/\/images-3.gog-statics.com\/d682aba9a076e9fceea4e10d2d53b63c6b4736b05c3b07d3bdf7e0c2b1105a45",
+                "\/\/images-4.gog-statics.com\/a3982d7297cb7ed94b66ad9efda4e817d9169705e46a48513a411ffdc8e6b885",
+                "\/\/images-2.gog-statics.com\/2b7ab2a864b2d3d8dac1d380704e4b7d8ce7593f0057bd69ba797d358fe20c35",
+                "\/\/images-3.gog-statics.com\/a309502bcf4d7439e0d35dba862eabaf464e911f0948999ee3e92c49134374c7",
+                "\/\/images-4.gog-statics.com\/36bdf0cf1c9e30ce2c8de64f3d39370c30b2e742c48882d1c3e702e0f8b05a58",
+                "\/\/images-1.gog-statics.com\/f5e2ba1dd1c641c63413624c5a6c2be284a267bcf5eb69207956e18963e3d81a",
+                "\/\/images-1.gog-statics.com\/81e744d45c0d594bbc8738409c9efe9005f84f5a06acb1b2966108c1222327e7"
+            ],
+            "video": {
+                "id": "ahluELm3jCw",
+                "provider": "youtube"
+            },
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1402088400,
+            "isTBA": false,
+            "price": {
+                "amount": "11.09",
+                "baseAmount": "45.99",
+                "finalAmount": "11.09",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "34.90",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1321528002,
+            "releaseDate": 1402088400,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-02-06 15:50:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1517925000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: Gateway to Caen",
+            "image": "\/\/images-2.gog-statics.com\/a33276ddc986b974e0343e00eefb29dc419993483df6caa5bb6aaff65b1bd9b9",
+            "url": "\/en\/game\/close_combat_gateway_to_caen",
+            "supportUrl": "\/support\/close_combat_gateway_to_caen",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 43,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_gateway_to_caen",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Black Hand Studio",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-1.gog-statics.com\/7270c8fb173f15fd6b924f79a1b12395e0ba79ad4fdf2d4251d820780699feb1",
+                "\/\/images-2.gog-statics.com\/25cc5ef02b7f2ca172039d572cb1935c1956339b852055675ca7aeadb219e4d4",
+                "\/\/images-4.gog-statics.com\/76d7372e81929b0e68a440eb8e183944a10f5b208a8363fb35a2deb02317091f",
+                "\/\/images-3.gog-statics.com\/14bd8f2e9d38d86a6866f91747a579e7cd430032560d486673b2da700294a3a2",
+                "\/\/images-4.gog-statics.com\/8f4df5d3767dbc73b4521eccff926779b4a2a86fe0aa724e21f7444eaf3f670f"
+            ],
+            "video": {
+                "id": "v5k6klzT67U",
+                "provider": "youtube"
+            },
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1308603600,
+            "isTBA": false,
+            "price": {
+                "amount": "13.69",
+                "baseAmount": "56.99",
+                "finalAmount": "13.69",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "43.30",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1516759579,
+            "releaseDate": 1308603600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "1991-12-25 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 693612000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: Last Stand Arnhem",
+            "image": "\/\/images-2.gog-statics.com\/85c25144883bf386bb4524a194d81ebf647389a029335c7f1ec3c5c087dbaf91",
+            "url": "\/en\/game\/close_combat_last_stand_arnhem",
+            "supportUrl": "\/support\/close_combat_last_stand_arnhem",
+            "forumUrl": "\/forum\/general",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 43,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_last_stand_arnhem",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Slitherine Ltd.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-4.gog-statics.com\/c9816874f35987e16592ee2bef17fccecf2df4eefb07f87896d31712fe397c03",
+                "\/\/images-2.gog-statics.com\/7f897c7bf7a05a607a5f7c2137a47ace84303f5d74f25cf8f4698668b6869eca",
+                "\/\/images-3.gog-statics.com\/619a8d383ddd3cd9f9062fee42b28e6056377daae5ca26182c26cd8d8c596073",
+                "\/\/images-4.gog-statics.com\/bd834c723f51e63dc77136828a4bf8a99f77de472945d4d2558e7448164add21",
+                "\/\/images-1.gog-statics.com\/27a6b5313845a66025a27f1c21560b033026b90b11039d59bea9b7dd4b44739a"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1308603600,
+            "isTBA": false,
+            "price": {
+                "amount": "13.69",
+                "baseAmount": "56.95",
+                "finalAmount": "13.69",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "43.26",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1877181554,
+            "releaseDate": 1308603600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2020-06-03 15:50:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1591188600,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: The Longest Day",
+            "image": "\/\/images-1.gog-statics.com\/af18741721b6ac16c72e1475035082f05182445cb8c63005f522a6215147cc23",
+            "url": "\/en\/game\/close_combat_the_longest_day",
+            "supportUrl": "\/support\/close_combat_the_longest_day",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 42,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_the_longest_day",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Matrix Games",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-1.gog-statics.com\/7aefd32f59a18de4128ef09e4983fc352d6621969e7befd17bf80a704e8f15b5",
+                "\/\/images-2.gog-statics.com\/aa97cc3e017e5542c72498d3b15d88f32aed15803298af6c688bcea2e2602e14",
+                "\/\/images-2.gog-statics.com\/240ebb39d081b8b651b8416d5917071f164fc0e289bf9872c488f67b66e9f234",
+                "\/\/images-3.gog-statics.com\/2993c6bc0eee5def50b6d209fb82102724721428fb9ddda7f525ae6a3c9d1bb8",
+                "\/\/images-4.gog-statics.com\/e5c8842ebcdaffd6246b0e7d23015037749111825497889771ff266bdd9c2002",
+                "\/\/images-4.gog-statics.com\/969b99c2aad72cc35294f6fbca220bf6c9886a6c168b50fead1a54308758e82b"
+            ],
+            "video": {
+                "id": "og4e4tihEts",
+                "provider": "youtube"
+            },
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1353276000,
+            "isTBA": false,
+            "price": {
+                "amount": "11.09",
+                "baseAmount": "45.99",
+                "finalAmount": "11.09",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "34.90",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1966901360,
+            "releaseDate": 1353276000,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-02-06 15:50:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1517925000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: Panthers in the Fog",
+            "image": "\/\/images-1.gog-statics.com\/b20a3ab19f168fe88ad4a6f2ade6905de9c8e70fac7dade5b74f6a25ef3299b2",
+            "url": "\/en\/game\/close_combat_panthers_in_the_fog",
+            "supportUrl": "\/support\/close_combat_panthers_in_the_fog",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 42,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_panthers_in_the_fog",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Slitherine Ltd.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-2.gog-statics.com\/f50b1429d76d45da784a737c968ba36374c0069689709c1bc93e344d822842f5",
+                "\/\/images-4.gog-statics.com\/5dcf223c629074836422bbae2f53899c4b8a03f8ae5b9ab856c2a4fefeff688f",
+                "\/\/images-4.gog-statics.com\/0976cd5859b24dfd95037d0db77f914ec2277b44157b6c53a7a5e4a855f85696",
+                "\/\/images-4.gog-statics.com\/6fb95d7f93538b292672f0fa81fa6b7a86a711e5824573e210d65048c4236690",
+                "\/\/images-4.gog-statics.com\/4637423906d6009b63924de2b1bbf00984f5fbc00c5153f47cd97df3c19aae0d",
+                "\/\/images-4.gog-statics.com\/e0bf427cce33cacf792ae10e53bc4f60a81cf16482afdacbc5f003a10df5ab4f",
+                "\/\/images-1.gog-statics.com\/a7e9511b965812cd63c6a6688b29cf47b133b680eb562f081b8cb2ec27fa699e"
+            ],
+            "video": {
+                "id": "iBtl1-qfaVc",
+                "provider": "youtube"
+            },
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1308603600,
+            "isTBA": false,
+            "price": {
+                "amount": "11.09",
+                "baseAmount": "45.99",
+                "finalAmount": "11.09",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "34.90",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1988084980,
+            "releaseDate": 1308603600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-03-20 15:55:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1521554100,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: Cross of Iron",
+            "image": "\/\/images-4.gog-statics.com\/d0e93516d54d723a99dae510e29bb9970a69ebca2b1993b1279786b919e0c320",
+            "url": "\/en\/game\/close_combat_cross_of_iron",
+            "supportUrl": "\/support\/close_combat_cross_of_iron",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 37,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_cross_of_iron",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Slitherine Ltd.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-4.gog-statics.com\/b6522e3750fce87782705b0e528b4cddcba2a2712a351c6ed9d16479cbe440eb",
+                "\/\/images-1.gog-statics.com\/5444ece5301b92120b89b64be1e1af54320b5b439dfe5d8b115c036b33ec1675",
+                "\/\/images-1.gog-statics.com\/ea3b0c1b7ea1a6a0a06fd0c91cf6d79b55e2cf55b7538ff5417d8374d0dd8517",
+                "\/\/images-2.gog-statics.com\/a0ba1da45f44edf7742f05eb336a3b037333577a21264b10cd482be20908a8d7",
+                "\/\/images-4.gog-statics.com\/d2e8ae4c2bdd8b3b2d7cf8ea2f0a7700553898d91aed7219ede7e1c76c2d3dfe",
+                "\/\/images-2.gog-statics.com\/b264993c646c201bf196cdf4a16a1e49b3315076f36a6908ef5b4f10a7161762",
+                "\/\/images-1.gog-statics.com\/62e9cb950316305aee9eb7d0892f17fc6ee188d0dbcbbfd02f1d06675bd0d0d7",
+                "\/\/images-1.gog-statics.com\/c0aa0e980fdd7238e4002720d0984e79835e5f74af5129d8c01ed9730b7a5037",
+                "\/\/images-3.gog-statics.com\/e56c8c9e7ed6b54eb470e5d2cb314aebe089cbcaf83434422de150a84a58d517"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Modern"
+            ],
+            "globalReleaseDate": 1195077600,
+            "isTBA": false,
+            "price": {
+                "amount": "10.29",
+                "baseAmount": "42.95",
+                "finalAmount": "10.29",
+                "isDiscounted": true,
+                "discountPercentage": 76,
+                "discountDifference": "32.66",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 76,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 2078946998,
+            "releaseDate": 1195077600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-03-20 15:55:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1521554100,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: Modern Tactics",
+            "image": "\/\/images-3.gog-statics.com\/5e596fed25849ca229be426b52dd8d98fdda5a5b7197fd286423938cea0b023a",
+            "url": "\/en\/game\/close_combat_modern_tactics",
+            "supportUrl": "\/support\/close_combat_modern_tactics",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 32,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_modern_tactics",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Slitherine Ltd.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-3.gog-statics.com\/9c500620eabcd698483ec9ee0bf9134302f4918645011a21d14be2910592b89c",
+                "\/\/images-3.gog-statics.com\/1a29cbdd8f1dc0009cf99fa8f704c57979442bc17871591ad60ba27538f18830",
+                "\/\/images-1.gog-statics.com\/736aa56d7066022c7f3e046c616c862b6d85bde7e5ad1e29614ad06add19f353",
+                "\/\/images-2.gog-statics.com\/44ed84a4b231366d47034205e44910f95ce56c7da9cfd4f92a52e09f453f6c13",
+                "\/\/images-2.gog-statics.com\/93dd0db58a9e500a1d5c47986e19b0b8edb3b96568c5c8ae3cee31daec85c6f0",
+                "\/\/images-2.gog-statics.com\/8e3bc953167ef8057972e99b45bf625d32a850c834889f628db156e550b59240",
+                "\/\/images-4.gog-statics.com\/bf2f47181333fef3df5cc0863beb9d4dd3bc117cc9996c705d6967ea1c9444d7",
+                "\/\/images-3.gog-statics.com\/f2fc730875c9d715b036927bb442d490d1e417983a74e5af2f3ab384fac8068b"
+            ],
+            "video": {
+                "id": "7QWw3ZuogEM",
+                "provider": "youtube"
+            },
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 1570050000,
+            "isTBA": false,
+            "price": {
+                "amount": "28.49",
+                "baseAmount": "56.95",
+                "finalAmount": "28.49",
+                "isDiscounted": true,
+                "discountPercentage": 50,
+                "discountDifference": "28.46",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 50,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 2096044923,
+            "releaseDate": 1570050000,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "1991-12-25 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 693612000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat: The Bloody First",
+            "image": "\/\/images-2.gog-statics.com\/1ea8885fdae16ba7f906cc267d27e34b01f4a05a614cac27334b6a98abdf2fc1",
+            "url": "\/en\/game\/close_combat_the_bloody_first",
+            "supportUrl": "\/support\/close_combat_the_bloody_first",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 33,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_the_bloody_first",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Atomic Games, Inc.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-3.gog-statics.com\/8ddf7e2ab07c98619df01e505e7187b477448d29c76e5df4ccf6b53b45be5748",
+                "\/\/images-3.gog-statics.com\/1937f35b72e7c24681f0f533365e09cf7e1896e7ba48e09f80597ecd189a6b51",
+                "\/\/images-4.gog-statics.com\/c08f5425f7cb12cc420ed2d3e66ab100a61bd706b8eb7fd586831e4881e37603",
+                "\/\/images-1.gog-statics.com\/10bf1019c7618191226072f4368d06c30e18b3fa1a9cee6970770b054426563f",
+                "\/\/images-2.gog-statics.com\/8c4641ceb85d561c9750ba24f808502e7a1c1fba4d2063590e58186d6e01387c",
+                "\/\/images-4.gog-statics.com\/49f29d0ad8191c5342f1b616695e469fd4e2f9a2784f1c0dd14e0fa0b3063f34",
+                "\/\/images-1.gog-statics.com\/4d446357b8e4345f8d270945a6365cab7d98ef6294082014d72b8fda0a73fe15",
+                "\/\/images-2.gog-statics.com\/27924d096b561ce3ed239f28fae9673644d787d655c639b09b888a5a53b21f5f",
+                "\/\/images-4.gog-statics.com\/cfa36814020d180502774ab8875923b91798e08ba27e020d523b6b13a994f175",
+                "\/\/images-4.gog-statics.com\/6bc48829e995de8a83bd0616d3a808ed81a0d86522e7002b9fb41071cfe232ae",
+                "\/\/images-3.gog-statics.com\/b71fd4850f5ffcc1fd35d821ed37830e2d512e3805c240128b4cc94a6ed78c16"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 852069600,
+            "isTBA": false,
+            "price": {
+                "amount": "5.59",
+                "baseAmount": "9.29",
+                "finalAmount": "5.59",
+                "isDiscounted": true,
+                "discountPercentage": 40,
+                "discountDifference": "3.70",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 40,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale_anniversaries"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1649233263,
+            "releaseDate": 852069600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-02-06 15:50:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1517925000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat 2: A Bridge Too Far",
+            "image": "\/\/images-1.gog-statics.com\/b2ececd37d64b98462d369cab87663208efadc8fbc135fcbc0bd8b4f221707f7",
+            "url": "\/en\/game\/close_combat_2_a_bridge_too_far",
+            "supportUrl": "\/support\/close_combat_2_a_bridge_too_far",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 41,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_2_a_bridge_too_far",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Atomic Games, Inc.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-3.gog-statics.com\/7238da8aaf6c05a0de6d4fc6433ee52eca7b45c6394d47fa34173cc505072368",
+                "\/\/images-1.gog-statics.com\/e21e1df78d7a508ea24d4f8cfd03b21d04bdd59a11deb4b7f3e8ac155cbefff5",
+                "\/\/images-2.gog-statics.com\/532cee2fa9c9e0b37b71d9a142be9643f76d99fb40e7ef59585f44ca2fdd684b",
+                "\/\/images-2.gog-statics.com\/dd3fbcdab0217bffc6133d229efe81a1171e833d7fb8ae1043bd20a714595832",
+                "\/\/images-1.gog-statics.com\/5e4f22e3c8d8d9fc45a978374a884bbde4bccd0a2de7d4205e11cae8654ee864",
+                "\/\/images-4.gog-statics.com\/1cfda7adfd37bb93fac871bda2b2a424f712c30ebc18d1af8ed430aa767505c6",
+                "\/\/images-3.gog-statics.com\/053b384234e4a8d2283833fb478a5bbd314983b1b6127ca0c985c7fa7de572fe",
+                "\/\/images-4.gog-statics.com\/0a88c3e604fe1a24770dfc4cbcebd48a61ed82928ce3b98bd3fd408bdba9e187",
+                "\/\/images-1.gog-statics.com\/61d22520916c8c06f9c7af92ba69012f3d1a62c4a5695cec1bc19c9098206bdb"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 915141600,
+            "isTBA": false,
+            "price": {
+                "amount": "5.59",
+                "baseAmount": "9.29",
+                "finalAmount": "5.59",
+                "isDiscounted": true,
+                "discountPercentage": 40,
+                "discountDifference": "3.70",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 40,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1714577252,
+            "releaseDate": 915141600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-02-06 15:50:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1517925000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat 4: The Battle of the Bulge",
+            "image": "\/\/images-3.gog-statics.com\/8e83d67772dd8fafc6ab0da0ea562b68673a84e0567d2bbf71b1a9df1a4bf074",
+            "url": "\/en\/game\/close_combat_4_the_battle_of_the_bulge",
+            "supportUrl": "\/support\/close_combat_4_the_battle_of_the_bulge",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 42,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_4_the_battle_of_the_bulge",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Atomic Games, Inc.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-2.gog-statics.com\/cbf955a47a50c073799d57838ff4eea9d747b4001a4e441d1882a3a78617da35",
+                "\/\/images-2.gog-statics.com\/84a376f6528998b1bbbcb3ee5d37b184aab54d037b4f4d358d816114093a9885",
+                "\/\/images-1.gog-statics.com\/d013e30e97e59e5b26368af03668af2c0c55c711c3464abbee521b0d0b6fe931",
+                "\/\/images-1.gog-statics.com\/1839edc627e9c6624b1679d92a560aa2d47c98979ff26dc777a3e9c46b610a42",
+                "\/\/images-1.gog-statics.com\/d13b8cb3f4bafd6ea2833a37ac25e1d33476c3a5be96ceb8969a578c3c5cfaa0",
+                "\/\/images-2.gog-statics.com\/ed5670dad490a912a4677451301d8773aea5870d7e7bcc388eba0e658fd8ab9c",
+                "\/\/images-3.gog-statics.com\/476c8567692677ed21d29eee338e27353430bbc8e001705f2632d1717e8355b5",
+                "\/\/images-2.gog-statics.com\/0df9c0dfe083d1920823f003cb607b7b841e2393f7d1067f32671f5a0d9d4ae8",
+                "\/\/images-1.gog-statics.com\/1aa8684ce9d564150ecabb3ab5d95db97d66d6dcb6cdd7d9d94576e09b38ca4b",
+                "\/\/images-4.gog-statics.com\/f4cbed3db931e5ee1f672ca71e593cb372df965d3d4dfa4fcb341c4ab3a7fd4b",
+                "\/\/images-3.gog-statics.com\/992dbf9af4888afcd8bbce5cc14dcaf2f378ab3e8dcac05d6551d724fee5c3d5",
+                "\/\/images-2.gog-statics.com\/ff1aebcfeaf58122679326e85dee3a2bc9eca79ef5bf40a77cd2903e41befd57"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 916351200,
+            "isTBA": false,
+            "price": {
+                "amount": "5.59",
+                "baseAmount": "9.29",
+                "finalAmount": "5.59",
+                "isDiscounted": true,
+                "discountPercentage": 40,
+                "discountDifference": "3.70",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 40,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 1981721026,
+            "releaseDate": 916351200,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-02-06 15:50:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1517925000,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat 3: The Russian Front",
+            "image": "\/\/images-2.gog-statics.com\/dc94a48efb98d1736e5d49413adc9020a41105c06281d2399e70053c1eecd34f",
+            "url": "\/en\/game\/close_combat_3_the_russian_front",
+            "supportUrl": "\/support\/close_combat_3_the_russian_front",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 44,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_3_the_russian_front",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        },
+        {
+            "customAttributes": [],
+            "developer": "Atomic Games, Inc.",
+            "publisher": "Slitherine Ltd.",
+            "gallery": [
+                "\/\/images-1.gog-statics.com\/ef456dd19bfa6b51751991c2939588ed752c0289ebf5b79f49d2a903c498ad6c",
+                "\/\/images-3.gog-statics.com\/1cd741b528551a3872faad10265b5dcc7be7d2c60815305105247ecf4281171e",
+                "\/\/images-1.gog-statics.com\/4e2b1de4e9ae6fdba54a5649a0002dff1064067e6e1149dcfbfdadd78a4a4768",
+                "\/\/images-2.gog-statics.com\/16cb454f1e6e28066609018867e086d6549f0a5e64be21367376195d9f472461",
+                "\/\/images-4.gog-statics.com\/25c360c4c4eb1e7364bbda0bf97153e75ec4028c5f87626c5b9d1d723336c380",
+                "\/\/images-1.gog-statics.com\/f07c3db46aae8625c78d4f15658cd98b0beaf7c0e55f7100818800f70ca39b97",
+                "\/\/images-3.gog-statics.com\/5ca7e72527365ce31b531165954d3e749bf017ddf3ad14dcc8cd41ae1406bf76",
+                "\/\/images-3.gog-statics.com\/c75e09066a357cc19c48ce1a75a0a5f9d8af415514f22f8fb59c7e697dae664e",
+                "\/\/images-2.gog-statics.com\/a4762984ca7839542e1f2df6e711f8436deeb1f3ec7593318a45c92224d9bf47",
+                "\/\/images-3.gog-statics.com\/2fb274c7c01a7fd1fb7911da62c2c7b07f3f90cd56796c0c95dc4e4839626891"
+            ],
+            "video": null,
+            "supportedOperatingSystems": [
+                "windows"
+            ],
+            "genres": [
+                "Strategy",
+                "Real-time",
+                "Historical"
+            ],
+            "globalReleaseDate": 946677600,
+            "isTBA": false,
+            "price": {
+                "amount": "5.59",
+                "baseAmount": "9.29",
+                "finalAmount": "5.59",
+                "isDiscounted": true,
+                "discountPercentage": 40,
+                "discountDifference": "3.70",
+                "symbol": "A$",
+                "isFree": false,
+                "discount": 40,
+                "isBonusStoreCreditIncluded": false,
+                "bonusStoreCreditAmount": "0.00",
+                "promoId": "2022_winter_sale"
+            },
+            "isDiscounted": true,
+            "isInDevelopment": false,
+            "id": 2016902862,
+            "releaseDate": 946677600,
+            "availability": {
+                "isAvailable": true,
+                "isAvailableInAccount": true
+            },
+            "salesVisibility": {
+                "isActive": true,
+                "fromObject": {
+                    "date": "2018-03-20 15:55:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "from": 1521554100,
+                "toObject": {
+                    "date": "2037-12-31 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Europe\/Nicosia"
+                },
+                "to": 2145909599
+            },
+            "buyable": true,
+            "title": "Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg",
+            "image": "\/\/images-2.gog-statics.com\/5ff63f9efa86fa5f6849ec31a5692ec1b2071487a2c885cd92c7855640e36f24",
+            "url": "\/en\/game\/close_combat_5_invasion_normandy_utah_beach_to_cherbourg",
+            "supportUrl": "\/support\/close_combat_5_invasion_normandy_utah_beach_to_cherbourg",
+            "forumUrl": "\/forum\/close_combat_series",
+            "worksOn": {
+                "Windows": true,
+                "Mac": false,
+                "Linux": false
+            },
+            "category": "Strategy",
+            "originalCategory": "Strategy",
+            "rating": 39,
+            "type": 1,
+            "isComingSoon": false,
+            "isPriceVisible": true,
+            "isMovie": false,
+            "isGame": true,
+            "slug": "close_combat_5_invasion_normandy_utah_beach_to_cherbourg",
+            "isWishlistable": true,
+            "extraInfo": [],
+            "ageLimit": 0
+        }
+    ],
+    "ts": null,
+    "page": 1,
+    "totalPages": 1,
+    "totalResults": "12",
+    "totalGamesFound": 12,
+    "totalMoviesFound": 0
+}
