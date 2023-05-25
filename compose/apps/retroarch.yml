@@ -7,12 +7,12 @@
 services:
   ####################
   retroarch:
-    image: ghcr.io/games-on-whales/retroarch:edge
-#   build:
-#     context: ./images/retroarch
-#     args:
-#       BASE_IMAGE: ${BUILD_BASE_IMAGE}
-#       BASE_APP_IMAGE: ${BUILD_BASE_APP_IMAGE}
+    image: dillinger/retroarch:latest
+    build:
+      context: ./images/retroarch
+      args:
+        BASE_IMAGE: ${BUILD_BASE_IMAGE}
+        BASE_APP_IMAGE: ${BUILD_BASE_APP_IMAGE}
     runtime: ${DOCKER_RUNTIME}
     privileged: true
     network_mode: ${UDEVD_NETWORK}

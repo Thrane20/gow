@@ -386,7 +386,7 @@ transform_file() {
 
 # return the docker compose cli executable path
 get_compose_exec_path() {
-    local docker_compose_command="$(command -v docker 2> /dev/null) compose"
+    local docker_compose_command="$(command -v docker-compose 2> /dev/null) compose"
     if command -v docker-compose &> /dev/null; then
         docker_compose_command="$(command -v docker-compose 2> /dev/null)"
     fi
