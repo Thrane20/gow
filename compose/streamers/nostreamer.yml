@@ -1,0 +1,6 @@
+# This file contains compose configuration that is specific to running GoW
+# using the host's existing desktop - (specifically with no base streamer)
+version: "3"
+
+volumes:
+  udev:

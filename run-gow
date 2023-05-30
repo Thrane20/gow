@@ -16,7 +16,7 @@ compose_files=()
 apps=()
 
 gpu_type=none
-streamer=sunshine # by default, use sunshine to stream to moonlight
+streamer="none" # by default we have no default streamer - explicit choice if wanted
 platform=host
 quiet=false
 debug=false
@@ -24,13 +24,16 @@ debug=false
 main() {
     parse_cli SCRIPT_ARGV
 
-    # which moonlight host should we be using? Wolf (beta) or Sunshine (default)?
+    # The choice of streamer must be explicit - otherwise none.
     case "$streamer" in
         wolf)
             compose_files+=("compose/streamers/wolf.yml")
             ;;
-        *)
+        sunshine)
             compose_files+=("compose/streamers/sunshine.yml")
+            ;;
+        none)
+            compose_files+=("compose/streamers/nostreamer.yml")
             ;;
     esac
 
@@ -138,6 +141,7 @@ usage() {
     echo_stderr "  -s, --streamer"
     echo_stderr "      Use this option to specify which streaming server should be used to connect with Moonlight."
     echo_stderr "      Possible values:"
+    echo_stderr "        none         - no streaming, running locally only"
     echo_stderr "        sunshine     - the original, more stable option [default]"
     echo_stderr "        wolf         - the bleeding edge option. still in beta."
     echo_stderr
@@ -241,6 +245,7 @@ parse_cli() {
         idx=$((idx + 1))
     done
     argv=( "${argv[@]:$idx}" )
+    echo_stderr "Using streamer: $streamer"
 }
 
 # echo the given text to stderr, unless the "quiet" option is set

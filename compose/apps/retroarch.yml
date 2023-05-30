@@ -7,16 +7,18 @@
 services:
   ####################
   retroarch:
-    image: dillinger/retroarch:latest
+    image: dillinger/runner-retroarch:latest
     build:
       context: ./images/retroarch
       args:
         BASE_IMAGE: ${BUILD_BASE_IMAGE}
         BASE_APP_IMAGE: ${BUILD_BASE_APP_IMAGE}
     runtime: ${DOCKER_RUNTIME}
+    container_name: dillinger-runner-retroarch
     privileged: true
     network_mode: ${UDEVD_NETWORK}
     volumes:
+      - retroarch_arcade:/home/retro/roms
       # Followings are needed in order to get joystick support
       - /dev/input:/dev/input:ro
       - udev:/run/udev/:ro
@@ -44,3 +46,8 @@ services:
       # issues
       # These values are the defaults, but you can add others if needed
       GOW_REQUIRED_DEVICES: /dev/uinput /dev/input/event* /dev/dri/* /dev/snd/*
+
+volumes:
+  retroarch_arcade:
+    external: true
+    name: retroarch_arcade
