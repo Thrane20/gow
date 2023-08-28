@@ -7,7 +7,6 @@ FROM ${BASE_APP_IMAGE}
 ARG DEBIAN_FRONTEND=noninteractive
 ARG REQUIRED_PACKAGES=" \
     libpci3 \
-    libegl1 \
     firefox \
 "
 
@@ -28,6 +27,41 @@ rm -rf /var/lib/apt/lists/*
 _INSTALL_PACKAGES
 
 COPY --chmod=777 scripts/startup.sh /opt/gow/startup-app.sh
+
+# See the full list of supported options at: https://mozilla.github.io/policy-templates/
+COPY <<_PREFS /etc/firefox/policies/policies.json
+{
+  "policies": {
+    "AppAutoUpdate": false,
+    "OverrideFirstRunPage": "",
+    "OverridePostUpdatePage": "",
+    "FirefoxHome": {
+      "Search": true,
+      "TopSites": true,
+      "SponsoredTopSites": false,
+      "Highlights": true,
+      "Pocket": false,
+      "SponsoredPocket": false,
+      "Snippets": false,
+      "Locked": false
+    },
+    "Preferences": {
+        "browser.policies.loglevel": {
+            "Value": "debug",
+            "Status": "default"
+        },
+        "gfx.webrender.all": {
+            "Value": true,
+            "Status": "default"
+        },
+        "webgl.force-enabled": {
+            "Value": true,
+            "Status": "default"
+        }
+    }
+  }
+}
+_PREFS
 
 ENV XDG_RUNTIME_DIR=/tmp/.X11-unix
 
